@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 //
-// This files is a forwarding header for other headers containing various
+// This file is a forwarding header for other headers containing various
 // portability macros and functions.
 // This file is used for both C and C++!
 
